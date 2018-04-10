@@ -4,7 +4,7 @@ data = '[\
     "heading" : "Bell Ampitheater",\
     "desc" : "The Bell House & Bell Amphitheater is the best place to go to especially if you want to know more about the history of the popular Camp John Hay. It was named after the person who is responsible for the majority of Camp John Hay’s structure Major General James Franklin Bell. Lucky enough, The Bell House was preserved and it is a part of the Camp John Hay Historical Core.",\
     "why_go" : "If you want to know the history behind camp john hay, you are free to come in Bell Amphitheater. It is also a place known for weddings.",\
-    "map" : "../maps/parks/bell_ampi.png",\
+    "map" : "./src/maps/parks/bell_ampi.png",\
     "coord" : "85,97,127,137",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
@@ -14,7 +14,7 @@ data = '[\
     "heading" : "Bell Church",\
     "desc" : "It is during the Spring Festival or what is more commonly known in the West as the Chinese New Year that local and foreign Chinese tourists flock to the Bell Church. Like all Chinese festivals, the date of the new year is determined by the lunar/solar calendar rather than the Gregorian calendar. The observance of the holiday falls on a different date each year and it usually varies from late January to the middle of February. This Chinese public holiday is usually observed for 3 days although the festival traditionally starts with the new moon on the first day of the new year and ends on the full moon 15 days later. The 15th day of the new year is called the Lantern Festival which is celebrated at night with lantern displays and children carrying lanterns in a parade.",\
     "why_go" : "It has a pagoda, and beautifully landscaped gardens. There are some artifacts about Buddhism that you will find at the Bell Church as well as some literature about the history of China.",\
-    "map" : "../maps/parks/bell_church.png",\
+    "map" : "./src/maps/parks/bell_church.png",\
     "coord" : "520,645,538,664",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the La Trinidad jeepney just in front of City Hall.",\
@@ -24,7 +24,7 @@ data = '[\
     "heading" : "Botanical Garden",\
     "desc" : "Also known as the Igorot Village, the Botanical Garden features native huts typical of the type of Igorot dwellings found in the Cordilleras. The village is said to capture the ethnic spirit and cultural legacy of the Igorots and being tranquil and quiet, it is a nice place to just sit down and relax, take a leisurely stroll along its narrow and winding pathways and also enjoy the landscape where you will find numerous plants and trees",\
     "why_go" : "Some years back Igorot dances and rituals were held in an improvised outdoor stage within the village. Local students go to the Botanical Garden for a day of retreat or just enjoy the outdoor environment. When visiting the Botanical Garden, you will usually find a group of Igorots at the main entrance who are dressed in their authentic native attire and regalia. They will be more than happy to pose with visitors for a souvenir picture ... of course, for a fee.",\
-    "map" : "../maps/parks/botanical_garden.png",\
+    "map" : "./src/maps/parks/botanical_garden.png",\
     "coord" : "70,345,122,397",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the Mines View jeepney located in Lower Mabini just across Danes Bakeshop..",\
@@ -34,7 +34,7 @@ data = '[\
     "heading" : "Christmas Village",\
     "desc" : "Families planning to spend a snowy Christmas in the Philippines may opt to travel toBaguio City every December to witness the famous Chritmas Village.",\
     "why_go" : "You may exerience like a winter wheather because of the cold climate and ther are abroad-like snow that falls from above that is made from bubbles, but you will appreeciate its beauty because yo will not find it fake due to the cold wheater and everyyear, The Christmas village has different theme.",\
-    "map" : "../maps/parks/christmas_village.png",\
+    "map" : "./src/maps/parks/christmas_village.png",\
     "coord" : "75,154,120,203",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the Country Club jeepney located in Bayanihian just across the terminal of Crystal Cave. Take note that Christmas Village is only open DURING the Christmas season.",\
@@ -44,7 +44,7 @@ data = '[\
     "heading" : "Igorot Park",\
     "desc" : "A small manicured garden area with a central podium of 5 Ifugao warrior statues poised with spears and cutting weapons as a reflection of the tribal past of the Cordillera Mountains. A simple introduction to the historical background of a proud and conscious people who believe that the environment is brim full of Gods at every level, including Bulol the Rice God who continues to feed the Nation.",\
     "why_go" : "The famous men activity here is the board game, chess. From morning to eve you can see the men playing the game. The statue speaks for itself! It is good place not to miss.",\
-    "map" : "../maps/parks/igorot_park.png",\
+    "map" : "./src/maps/parks/igorot_park.png",\
     "coord" : "",\
     "fare" : "N/A",\
     "jeep_desc" : "Just near burnham and where most of the terminals are near at.",\
@@ -54,7 +54,7 @@ data = '[\
     "heading" : "Camp John Hay",\
     "desc" : "Camp John Hay used to be the rest and recreational facility for employees of the military and Department of Defense of the United States. This 690-hectare property was turned over to the Philippine government in July 1, 1991 and was initially administered by the Philippine Tourism Authority and then turned over to the Bases Conversion Development.",\
     "why_go" : "For those interested in playing golf, Camp John Hay has a 5,330-yard, 18-hole, par-68 golf course which is one of the best in the country. There is a new golf clubhouse which has a restaurant and function rooms that cater to golfers, visitors, and also the local residents of Baguio. Around the complex there are beautiful gardens, picnic areas, parks, an amphitheatre, and hiking trails that wind through the rolling hills and pine trees within the former military reservation.",\
-    "map" : "../maps/parks/john_hay.png",\
+    "map" : "./src/maps/parks/john_hay.png",\
     "coord" : "324,81,350,106",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
@@ -64,7 +64,7 @@ data = '[\
     "heading" : "Rose Garden",\
     "desc" : "A The development of Rose Garden was based on the Burnham Park Master Development Plan donated by the University of the Cordilleras (UC) to the City of Baguio. According to the website of UC, the plan they have given to the city incorporates Green Architectures and Sustainable and Organic approach in its planning and design.",\
     "why_go" : "Rose Garden can now live up to its name as it is now surrounded with roses. The roses in different colors were dominant in the garden as it can be seen all around. Seats are also provided for those who visit the garden. There are also spaces provided wherein groups of teenagers may practice dance steps and play some sports like badminton. During the nights, the garden is lightened up with LED lights. The garden is also equipped with speakers to add more feeling to the ambiance, so visitors can sing along with the music.",\
-    "map" : "../maps/parks/malcolm_square.png",\
+    "map" : "./src/maps/parks/malcolm_square.png",\
     "coord" : "",\
     "fare" : "N/A",\
     "jeep_desc" : "It is located at Burnham Park already and you could just walk to go there.",\
@@ -74,7 +74,7 @@ data = '[\
     "heading" : "The Mansion House",\
     "desc" : "The Mansion is located on the eastern part of the city along the Leonard Wood Road and right across from Wright Park. It was built in 1908 for U.S. governor-generals and was destroyed in 1945 during the battle for the liberation of the Philippines.",\
     "why_go" : "Inside the Mansion is a mini museum housing memorabilia and works of art collected over its years of occupancy by the former presidents. Within the compound and adjacent to the Mansion is a two-story building which serves as the official residence of the Philippine President in Baguio City. A contingent of Philippine marines maintains the security of this large compound and you will see a some of them manning the guardhouse at the vicinity of the entry gate.",\
-    "map" : "../maps/parks/mansion_house.png",\
+    "map" : "./src/maps/parks/mansion_house.png",\
     "coord" : "55,259,95,302",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the Mines View jeepney located in Lower Mabini just across Danes Bakeshop.",\
@@ -84,7 +84,7 @@ data = '[\
     "heading" : "Mines View Park",\
     "desc" : "There is no doubt that the Mines View Park is one of the most popular and most visited park in the city. From the observation deck of the park a breathtaking panoramic view of Benguet gold and copper mines and the surrounding mountains unfolds before you. It is a spectacular sight to behold and should not be missed when visiting Baguio.",\
     "why_go" : "At the entrance to the park are stalls selling native handicraft such as wood carvings, locally made silver products and jewelry, baskets, brooms, sweaters, blankets, and a variety of other items. There are also canteens, snack stores, and street vendors selling food and beverages. Items one will find here are similar to those found in the public market but only at a much smaller scale. There are however some good bargains at the stores and it is best to check and compare prices before deciding to purchase a particular item. There is an open parking area at the vicinity of the park where the stores are located.",\
-    "map" : "../maps/parks/mines_view.png",\
+    "map" : "./src/maps/parks/mines_view.png",\
     "coord" : "52,375,84,408",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the Mines View jeepney located in Lower Mabini just across Danes Bakeshop.",\
@@ -94,7 +94,7 @@ data = '[\
     "heading" : "Baguio Orchidarium",\
     "desc" : "The Orchidarium is located towards the end part of the adult biking area near Kisad road. Unlike other parts of the park, the Orchidarium is usually less crowded. You will enjoy this area if you love flowers and greens. The Orchidarium contains hundreds of different kinds of plants. It is filled with landscapes and some water elements. There are also some benches for you to rest. Its a green sanctuary in the middle of a busy city.",\
     "why_go" : "The Orchidarium is not just a marketplace for orchids. It also sells other species, including the exotic kind. Prices for the plants can range anywhere from Php 500 to Php 2500, depending on the variety, size, age, and rarity of breed. Some of the more common variety, however, can cost as low as Php10. There are also non-flowering plants available. Apart from plants, The Orchidarium sells other items, such as herbal teas, edible flowers, herbs, natural sweeteners and other organic supplies. Some of the best ingredients for a home-cooked meal are also available here – sage, rosemary, thyme, basil, oregano and rosemary. So whenever you are in Baguio, make sure to include The Orchidarium in your itinerary.",\
-    "map" : "../maps/parks/orchidarium.png",\
+    "map" : "./src/maps/parks/orchidarium.png",\
     "coord" : "",\
     "fare" : "N/A",\
     "jeep_desc" : "It is located at Burnham Park already and you could just walk to go there.",\
@@ -104,7 +104,7 @@ data = '[\
     "heading" : "Panagbenga Park",\
     "desc" : "Panagbenga park is a relatively small park with lush greens, flowering plants and playful butterflies. Being relatively small the park does not offer much as compared to Baguio City’s Burnham Park, there are no attractions except for flowers, butterflies and trees. This place is ideal for shutterbugs as there are a lot of plants that could be a good subject for macro photography.",\
     "why_go" : "During summer the Panagbenga park could be a good place to rest and maybe reflect which of course one could not do during school season as the park is proximate to SPED.",\
-    "map" : "../maps/parks/panagbenga_park.png",\
+    "map" : "./src/maps/parks/panagbenga_park.png",\
     "coord" : "160,95,215,155",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
@@ -114,7 +114,7 @@ data = '[\
     "heading" : "Baguio Rose Garden",\
     "desc" : "A The development of Rose Garden was based on the Burnham Park Master Development Plan donated by the University of the Cordilleras (UC) to the City of Baguio. According to the website of UC, the plan they have given to the city incorporates Green Architectures and Sustainable and Organic approach in its planning and design.",\
     "why_go" : "Rose Garden can now live up to its name as it is now surrounded with roses. The roses in different colors were dominant in the garden as it can be seen all around. Seats are also provided for those who visit the garden. There are also spaces provided wherein groups of teenagers may practice dance steps and play some sports like badminton. During the nights, the garden is lightened up with LED lights. The garden is also equipped with speakers to add more feeling to the ambiance, so visitors can sing along with the music.",\
-    "map" : "../maps/parks/rose_garden.png",\
+    "map" : "./src/maps/parks/rose_garden.png",\
     "coord" : "",\
     "fare" : "N/A",\
     "jeep_desc" : "Take the It is located at Burnham Park already and you could just walk to go there.",\
@@ -124,7 +124,7 @@ data = '[\
     "heading" : "Sunshine Park",\
     "desc" : "A place where flowers that only grow in cool climate can be found and this Baguio destination is also a place where cultural shows are presented and performed. A whole day can be spent at the Baguio Sunshine Park just admiring the beauty, color, and fragrance of flower and the cultural shows are very educational.",\
     "why_go" : "The Baguio Sunshine Park is a place where flowers that only grow in cool climate can be found and this Baguio destination is also a place where cultural shows are presented. A whole day can be spent at the Baguio Sunshine Park just admiring the beauty, color and fragrance of the flowers and the cultural shows are very educational.",\
-    "map" : "../maps/parks/sunshine_park.png",\
+    "map" : "./src/maps/parks/sunshine_park.png",\
     "coord" : "350,92,420,165",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the Greenwater jeepney located in Bayanihan just across the terminal of Scout Barrio.",\
@@ -134,7 +134,7 @@ data = '[\
     "heading" : "Wright Park",\
     "desc" : "Wright Park, which is located at the eastern part of the city and fronting the main gate of the Mansion, is one of the many scenic parks in Baguio City. Its main features are a shallow elongated rectangular body of water known as the Pool of Pines and the park circle which is on one end of the park. Postcard-type photographs are usually taken at both ends of Wright Park and when going there it is best to bring along a camera.",\
     "why_go" : "Riding a pony is a favorite among children as well as adults. The place is usually crowded with people during sunny weekends and on holidays. With an accompanying guide, there are some ponies that may be rented and taken farther out along South Drive, the Mines View Park area or to Outlook Drive. For those who intend to take out a pony, it is advisable to first agree on the hourly cost to be charged.",\
-    "map" : "../maps/parks/wright_park.png",\
+    "map" : "./src/maps/parks/wright_park.png",\
     "coord" : "184,384,218,420",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the Mines View jeepney located in Lower Mabini just across Danes Bakeshop.",\
@@ -144,7 +144,7 @@ data = '[\
     "heading" : "Good Shepherd",\
     "desc" : "The store is popularly known for the different products made by the Good Shepherd nuns and visitors coming up to the city who are familiar with items sold in the store always make it a point buy something to take back home. Among the most sought items are fruit preserves, strawberry and ube jams, cashew and peanut brittle, and coco jam. Most of their products are also sold by different stalls in the Baguio Public Market and at various other outlets within the city. The money generated from the sale of their products is used for the different charities sponsored by the Good Shepherd nuns and also for the maintenance and upkeep of the convent.",\
     "why_go" : "It is a place where college and high school students from Catholic institutions spend their retreats. At one end of the parking lot is an observation deck where one gets to see the distant Cordillera mountains and a valley below which are similarly visible from the Mines View Park.",\
-    "map" : "../maps/parks/market.png",\
+    "map" : "./src/maps/parks/market.png",\
     "coord" : "",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the Mines View jeepney located in Lower Mabini just across Danes Bakeshop.",\
@@ -154,7 +154,7 @@ data = '[\
     "heading" : "Black Market",\
     "desc" : "So, if you need to have a shoe re-soled or have your dollars changed, if you want to buy zucchini or sayote, romaine lettuce or kangkong, or perhaps buy yourself a bottle of Cordillera rice wine (called tapuey, sometimes tapuy or tapey) our market has it all. Rich and poor, everyone goes to the same market. Now that is really nice, is it? Located in the heart of the city, the market is at the base of Session Road on Magsaysay Avenue, near Burnham Park. Adjacent to it is the Maharlika Livelihood Center that complements the market with boutiques and other specialty shops, money changers, antique dealers, furniture stores, beauty parlors and other shops. A side entrance to Maharlika can be accessed via the city market dry goods section.",\
     "why_go" : "There are lots of stuffs to buy their cheaper than when you buy it from grocery store, and you can also do “tawad” or negotiate the price from the seller.",\
-    "map" : "../maps/parks/market.png",\
+    "map" : "./src/maps/parks/market.png",\
     "coord" : "",\
     "fare" : "N/A",\
     "jeep_desc" : "It is just inside the Baguio City Public Market located in Rajah Soliman and just ask some vendors for directions.",\
@@ -164,7 +164,7 @@ data = '[\
     "heading" : "Pasalubong Center",\
     "desc" : "Pasalubong varies from the local delicacies found only in the place that you are visiting or their specialty products such as bags, clothes, footwear and souvenir items like key chain, ref magnets, mats, bags and others. Baguio is one of the best places to buy pasalubong for your families back home or souvenirs like wood carvings like the famous and Barrel Man to the the truly Pinoy, Walis Tambo. There are dozens and dozens more of Baguio pasalubong that you can buy almost everywhere in the City of Pines. Many of them are unique to Baguio such as Strawberries and Strawberry- based products like jams, preserves and wine, to fresh vegetables like broccoli and cauliflower, to  cheap sterling silver accessories, warm clothes like chaleco and cardigans, and even ukay ukay finds like branded handbags, shirts and shoes. You can find lot of places where you can buy affordable Baguio Souvenirs and Pasalubong. What is good about these are, most of these shops sell these goods at almost the same price.",\
     "why_go" : "Pasalubong shopping is also one of the most awaited part of every Filipino traveler when on a trip or vacation. Every Pinoy wants to share what they seen and experience during their travels, thus they need to buy pasalubong  and souvenirs for their families and friends.",\
-    "map" : "../maps/parks/market.png",\
+    "map" : "./src/maps/parks/market.png",\
     "coord" : "",\
     "fare" : "N/A",\
     "jeep_desc" : "There are many pasalubong vendors inside the Baguio City Public market located in Rajah Soliman and you could just stroll around and look for the pasalubong you want to buy.",\
@@ -174,7 +174,7 @@ data = '[\
     "heading" : "SM",\
     "desc" : "Similar to other SM around Philippines but here you could feel the breeze with its open air conditioning where the air is the mall is natural.",\
     "why_go" : "It is not just the ordinary mall you would go to because here there is a view of a good landscape.",\
-    "map" : "../maps/parks/sm.png",\
+    "map" : "./src/maps/parks/sm.png",\
     "coord" : "420,90,480,155",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the Greenwater jeepney located in Bayanihan just across the terminal of Scout Barrio.",\
@@ -184,7 +184,7 @@ data = '[\
     "heading" : "University of the Philippines - Museo Kordilyera",\
     "desc" : "Description of the tourist spot: The museum focuses on the collection, preservation and display of objects associated with the unique societies and cultures of the Cordillera region. The Museo Cordillera is a three-level structure with only its reception level visible on the surface which follows the University’s policy that the structures should integrate with the University’s terrain and topography for sustainability and preservation of ecology.",\
     "why_go" : "It is the most recent museum to open in Baguio which means most of what you will see here is new to the eyes. If you are interested in ethnography, then this is a place you shouldn’t miss.",\
-    "map" : "../maps/museums/museo_kordilyera.png",\
+    "map" : "./src/maps/museums/museo_kordilyera.png",\
     "coord" : "350,68,400,123",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
@@ -194,7 +194,7 @@ data = '[\
     "heading" : "Baguio Museum",\
     "desc" : "The museum holds not only Baguio’s history but the Cordilleras and a bit of Ifugaos as well. On the main level of the museum, which is located on the second floor is a spread of artifacts from the region abound. On the other side, there are two detailed dioramas of various Cordilleran and Ifugao scenes displayed. On the ground floor, there are exhibits regarding the early years of the Americans in Baguio. The third floor of the Baguio Museum holds a detailed history of the city, from its pre-American period up to the current one. There are also old photographs of the city, complete with historical annotations of how the Americans discovered it and how the city came to be.",\
     "why_go" : "Baguio is full of cultures and traditions which are too interesting not to learn about it. Baguio Museum offers artifacts, exhibits, and detailed history of not only Baguio but Cordillera and Ifugao as well. This is not the ordinary museum but it is a museum that tells the story of a beautiful place called Baguio. ",\
-    "map" : "../maps/museums/baguio_museum.png",\
+    "map" : "./src/maps/museums/baguio_museum.png",\
     "coord" : "290,100,365,178",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
@@ -204,7 +204,7 @@ data = '[\
     "heading" : "Aguinaldo Museum",\
     "desc" : "The Aguinaldo Museum was established in 1985 by Cristina Suntay, a daughter of revolutionary figure, Emilio Aguinaldo and former resident of Baguio to host what the family claims to be the first Philippine flag. The temperature and dim lighting of the room where the flag is displayed is regulated as part of the preservation efforts on the flag. In 2011, it was reported that the flag may still be in a good viewing state for 20 to 30 years.",\
     "why_go" : "Aguinaldo Museum holds the most symbolic artifact in the Philippines, the Philippine flag. Not only does it possess the Philippine flag but artifacts of the first President of the Philippines such as desks, armors, and weapons. It is a place filled with meaningful artifacts not everyone get the opportunity to see.",\
-    "map" : "../maps/museums/aguinaldo.png",\
+    "map" : "./src/maps/museums/aguinaldo.png",\
     "coord" : "",\
     "fare" : "N/A",\
     "jeep_desc" : "It is located in Gen. Luna road near Cathedral. Either you walk to go there or you could just take the cab.",\
@@ -214,7 +214,7 @@ data = '[\
     "heading" : "Bell House Museum",\
     "desc" : "Bell House was named after Major General J. Franklin Bell who lived in that house as the commanding General of the American Forces in the Philippines. From 1911-1914, General Bell transformed camp John Hay from essentially a small convalescent facility into a major military resort (Robert Reed).",\
     "why_go" : "Not only does Bell house museum house historical items such as totem poles, it is surrounded with places such as Cemetery of Negativism, and it is also located in Camp John Hay, one of the most visited places in Baguio. Going to Bell House museum is definitely worth it considering the places located around it. ",\
-    "map" : "../maps/museums/bell_house.png",\
+    "map" : "./src/maps/museums/bell_house.png",\
     "coord" : "140,87,190,144",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
@@ -224,7 +224,7 @@ data = '[\
     "heading" : "Baguio Cathedral",\
     "desc" : "The rose-colored Baguio Catholic Cathedral, located on top of a hill in the heart of the city, is one of the more familiar and most visited landmarks of Baguio. This beautiful structure has twin spires and is one of the most photographed buildings in the city. From Session Road it is accessible by pedestrians who ascend a long concrete stairway of more than a hundred steps. Visitors and churchgoers who would rather avoid the difficult climb drive vehicles through an access road which passes behind the nearby post office building.",\
     "why_go" : "The Baguio Cathedral is the biggest catholic church in Baguio and is the center of religious activities such as during the Holy Week when thousands of devotees from Metro Manila and the provinces come up to the city. During Sundays and other special holidays of the catholic church, you will find vendors along the stairway and also at the church open patio selling flowers, balloons, newspapers, sweepstake tickets, candles, rosary beads, and other religious articles. Visitors desiring to visit Baguio on a tour should avoid coming up to the city during this religious week. Not only is the city crowded with people, it is difficult to find rooms in hotels and inns and the prices of native handicraft, souvenirs, vegetables, flowers, food, and other commodities & services are rather expensive.",\
-    "map" : "../maps/churches/cathedral.png",\
+    "map" : "./src/maps/churches/cathedral.png",\
     "coord" : "184,384,218,420",\
     "fare" : "N/A",\
     "jeep_desc" : "No need to take a jeepney when you are in town because it is just located beside Porta Vaga Mall.",\
@@ -234,7 +234,7 @@ data = '[\
     "heading" : "Our Lady Of Lourdes",\
     "desc" : "Our Lady of Lourdes is a Roman Catholic title of the Blessed Virgin Mary venerated in honour of the Marian apparitions that reportedly occurred in 1858 in the vicinity of Lourdes in France. Apart from its Beautiful altar, the church also houses a replica of the Grotto of Lourdes in France. Its construction was ordered by former first lady Aurora Quezon in 1939.",\
     "why_go" : "Lourdes has become a place of pilgrimage and healing, but even more of faith. Church authorities have recognized over 60 miraculous cures, although there have probably been many more. To people of faith this is not surprising. It is a continuation of Jesus’ healing miracles—now performed at the intercession of his mother. Some would say that the greater miracles are hidden. Many who visit Lourdes return home with renewed faith and a readiness to serve God in their needy brothers and sisters.",\
-    "map" : "../maps/churches/lourdes_parish.png",\
+    "map" : "./src/maps/churches/lourdes_parish.png",\
     "coord" : "242,33,298,97",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Bayanihan near Igorot Park behind the terminal of BGH/Campo Sioco and take the Scout Barrio jeepney.",\
@@ -244,7 +244,7 @@ data = '[\
     "heading" : "Saint Vincent Church",\
     "desc" : "Saint Vincent is a Roman Catholic church located at Naguilian Rd., Baguio City. ",\
     "why_go" : "Another church to go if you are having retreat or visita igleisa during holy week or just attend a normal holy mass.",\
-    "map" : "../maps/churches/st_vincent.png",\
+    "map" : "./src/maps/churches/st_vincent.png",\
     "coord" : "",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the Quezon Hill jeepney located in Kayang Street.",\
@@ -254,7 +254,7 @@ data = '[\
     "heading" : "Pink Sisters",\
     "desc" : "Pink Sisters Convent is a great place for meditation since it is away from the hustle and bustle of the main streets of Baguio City.",\
     "why_go" : "After along day of stress from work or school, you can go tho Pink Sisters Church for a different kind of meditation, freeing yourself from stress and releasing bad vibes that came over you.",\
-    "map" : "../maps/churches/pink_sisters.png",\
+    "map" : "./src/maps/churches/pink_sisters.png",\
     "coord" : "264,323,321,385",\
     "fare" : "Php 6.75 (Students/S.C./PWD) <br> Php 8.50 (Regular)",\
     "jeep_desc" : "Take the Mines View jeepney located in Lower Mabini just across Danes Bakeshop.",\
@@ -264,7 +264,7 @@ data = '[\
     "heading" : "Holy Family Church",\
     "desc" : "Holy Family Parish is famous church located in Bakakeng North Rd, Baguio City, where everyone can come to visit to pray and to have worship, as many devotees attend mass on this church.",\
     "why_go" : "As many devotees are coming to attend mass, you may attend mass here as a family, group or just you, so that you and your family may also be blessed as the devotees going to this church.",\
-    "map" : "../maps/churches/holy_family.png",\
+    "map" : "./src/maps/churches/holy_family.png",\
     "coord" : "467,51,498,84",\
     "fare" : "Php 8.00 (Students/S.C./PWD) <br> Php 10.00 (Regular)",\
     "jeep_desc" : "Igorot Park across the terminal of BGH/Campo Sioco and take Bakakeng jeepney and ask the conductor if it would go pass through the Church.",\
