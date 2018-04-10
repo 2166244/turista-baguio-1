@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="icon" href="../../src/images/logo.png" type="image/png">
+        <link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
+        <link type="text/css" rel="stylesheet" href="../style/style.css">
+        <script type="text/javascript" src="../../manifest.json"></script>
+        <script type="text/javascript">
+            function load() {
+
+                var mydata = JSON.parse(data);
+
+                var div_desc = document.getElementById('desc');
+
+                div_desc.innerHTML = div_desc.innerHTML + "<h1>"+ mydata[0].heading +"</h1>" + "<p>"+ mydata[0].desc +"</p>" +"<br>" + "<h1>Why Go to "+mydata[0].heading+"?</h1>" +"<br>" + "<p>"+ mydata[0].why_go +"</p><h1>When to go?</h1><p>" +mydata[0].when +"</p>";
+
+                var div_map = document.getElementById('div_map');
+
+                div_map.innerHTML = div_map.innerHTML + "<img class='map' src="+ mydata[0].map +" usemap='map'>";
+
+                var map = document.getElementById('map_id');
+
+                map.innerHTML = map.innerHTML + "<area href='#modal' class='modal-open' shape='rect' coords="+mydata[0].coord+">";
+
+                var modal = document.getElementById('cont');
+
+                modal.innerHTML = modal.innerHTML + "<h2 class='modal__heading'>"+ mydata[0].fare +"</h2>" + "<h2>Where to ride?</h2><p class='modal__paragraph'>"+ mydata[0].jeep_desc +"</p>" +"<br><img class='terminal' src="+mydata[0].jeep_loc+">";
+            }
+        </script>
+    </head>
+    <body onload="load()">
+        <div class="main">
+            <div class="headerhome">
+                <div class="logo"> 
+                    <img src="../../src/images/logo.png" alt= "Tourista Logo">
+                </div>
+
+                <div class="search">
+                    <input type="text" class="searchTerm" placeholder="What are you looking for?">
+                    <button type="submit" class="searchButton">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="desc" id="desc">
+            </div>
+
+            <div class="div-map" id="div_map">
+                <map name="map" id="map_id"></map>
+            </div>
+
+            <div class="modal" id="modal">
+                <div class="modal__content" id="cont">
+                    <a href="#" class="modal__close">&times;</a>
+                </div>
+            </div>
+        </div>
+
+
+
+
+    </body>
+</html>
