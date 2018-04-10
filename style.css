@@ -1,0 +1,154 @@
+body,html{
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+}
+
+.header{ 
+    background-image: url(../images/baguioback.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 80px;
+    overflow: hidden;
+}
+.logo {
+    padding, margin: 0px;
+}
+
+img{
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: auto;
+    padding-bottom: 15px;
+}
+
+.park{
+  margin: auto;
+  padding: 0px;
+  
+}
+
+.park > h1{
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    padding-left: 40px;
+    font-size: 2.3em;
+    color: blue;
+}
+.church > h1{
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    padding-left: 40px;
+    font-size: 2.3em;
+    color: blue;
+}
+
+.museum > h1{
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    padding-left: 40px;
+    font-size: 2.3em;
+    color: blue;
+}
+
+.market > h1{
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    padding-left: 40px;
+    font-size: 2.3em;
+    color: blue;
+}
+
+header { 
+  padding: .5vw;
+  font-size: 0;
+  display: -ms-flexbox;
+  -ms-flex-wrap: wrap;
+  -ms-flex-direction: column;
+  -webkit-flex-flow: row wrap; 
+  flex-flow: row wrap; 
+  display: -webkit-box;
+  display: flex;
+    width: 100%;
+    height: auto;
+}
+header div { 
+  -webkit-box-flex: auto;
+  -ms-flex: auto;
+  flex: auto;
+  width: 200px; 
+  height: auto;
+  margin: .5vw; 
+}
+header div img { 
+  width: 100%; 
+  height: auto; 
+}
+
+@media screen and (max-width: 400px) {
+  header div { margin: 0; }
+  header { padding: 0; }
+  
+}
+
+
+
+
+
+/*search button*/
+.search {
+  width: 50%;
+  position: relative;
+  display: block; 
+  margin: auto;
+  padding-bottom: 0px;
+}
+
+.searchTerm {
+  float: left;
+  width: 100%;
+  border: 3px solid #00B4CC;
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px;
+  outline: none;
+  color: #9DBFAF;
+}
+
+.searchTerm:focus{
+  color: #00B4CC;
+}
+
+.searchButton {
+  position: absolute;  
+  right: -50px;
+  width: 40px;
+  height: 36px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+h1 { 
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    background-color: aqua;
+}
+
+
+
+	
