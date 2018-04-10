@@ -308,7 +308,7 @@ data = '[\
   "background-color": "#fff",
   "description": "A tourist app that guides you to Baguio.",
   "icons": [{
-    "src": "images/icons/logo1px.png",
+    "src": "src/images/icons/logo1px.png",
       "sizes": "48x48",
       "type": "image/png"
     }, {
