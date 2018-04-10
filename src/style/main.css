@@ -1,0 +1,162 @@
+body,html{
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+}
+
+.header{ 
+    background-image: url(../images/baguioback.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 80px;
+    overflow: hidden;
+}
+.logo {
+    padding, margin: 0px;
+}
+
+img{
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: auto;
+    padding-bottom: 15px;
+}
+
+/* Nav Bar: Begin*/
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+/* Nav Bar: End*/
+
+.park{
+  margin: auto;
+  padding: 0px;
+  
+}
+
+.park > h1{
+    margin: auto;
+    padding: 50px;
+    padding-left: 40px;
+    font-size: 2.3em; 
+}
+
+header { 
+  padding: .5vw;
+  font-size: 0;
+  display: -ms-flexbox;
+  -ms-flex-wrap: wrap;
+  -ms-flex-direction: column;
+  -webkit-flex-flow: row wrap; 
+  flex-flow: row wrap; 
+  display: -webkit-box;
+  display: flex;
+}
+header div { 
+  -webkit-box-flex: auto;
+  -ms-flex: auto;
+  flex: auto; 
+  width: 200px; 
+  height: auto;
+  margin: .5vw; 
+}
+header div img { 
+  width: 100%; 
+  height: auto; 
+}
+
+@media screen and (max-width: 400px) {
+  header div { margin: 0; }
+  header { padding: 0; }
+  
+}
+
+
+
+
+
+/*search button*/
+.search {
+  width: 50%;
+  position: relative;
+  display: block; 
+  margin: auto;
+  padding-bottom: 0px;
+}
+
+.searchTerm {
+  float: left;
+  width: 100%;
+  border: 3px solid #00B4CC;
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px;
+  outline: none;
+  color: #9DBFAF;
+}
+
+.searchTerm:focus{
+  color: #00B4CC;
+}
+
+.searchButton {
+  position: absolute;  
+  right: -50px;
+  width: 40px;
+  height: 36px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+
+
+
+
+
+ 
+
+
+
+
+	
